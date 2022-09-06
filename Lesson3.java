@@ -23,6 +23,7 @@ class Lesson3 {
         System.out.println(Math.PI);
         f = a > 10;
         System.out.println(f);
+        System.out.printf(" a = %d, b = %f", a,b);
     
         
 }
