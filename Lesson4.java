@@ -46,9 +46,8 @@ class Lesson4 {
     default:
     System.out.println("error");
     break;
-    
-
-    
+   
+   
 }
 }
 }
