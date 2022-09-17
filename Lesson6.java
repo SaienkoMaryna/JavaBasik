@@ -4,11 +4,11 @@ import java.util.Scanner;
 class Lesson6 {
     public static void main (String[] args) {
        
-       Random random = new Random();
-       for(int i = 0; i <50 ; i++) {
-       System.out.print(random.nextInt(10)+ " ");
-       System.out.println("Hello, word");
-       System.out.println(Math.sqrt(16));//kvadratniy koren, imyaklass.imya metoda
+        Random random = new Random();
+        for(int i = 0; i <50 ; i++) {
+        System.out.print(random.nextInt(10)+ " ");
+        System.out.println("Hello, word");
+        System.out.println(Math.sqrt(16));//kvadratniy koren, imyaklass.imya metoda
 }
        Scanner scanner = new Scanner(System.in);
             System.out.println("\n napishi chislo ");
