@@ -32,7 +32,7 @@ class Lesson4 {
     System.out.println("no walk");
     }    
         int d = 6;
-    switch (d) {
+        switch (d) {
         case 12:
         case 1:
         case 2:
